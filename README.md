@@ -14,4 +14,5 @@
 - D rotates clockwise
 - A rotates to the counterclockwise
 - Z shoot bullets
+
 ![Tank](https://github.com/dyuyu/Tank-Game/blob/master/screenshots/Capture1.PNG)
